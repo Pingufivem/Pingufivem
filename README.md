@@ -1,5 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/116207](https://miro.medium.com/v2/resize:fit:1200/1*78AzOtcxsCxh1hPbImhhXQ.gif)
-
+![](https://github.com/Pingufivem/Pingufivem/assets/157257573/384d09d4-e773-42e7-9d4b-798b5e435cda)
 #### Programming Languages
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
